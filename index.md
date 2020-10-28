@@ -1,11 +1,11 @@
-# Welcome to Professor [Corey Bradshaw's](http://GlobalEcologyFlinders.com/people/#CJAB) GitHub repositories <br>
+# Welcome to Professor [Corey Bradshaw's](http://GlobalEcologyFlinders.com/people/#CJAB) GitHub repositories
+<br>
 
 
 [<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" width="100" align="left" />](http://GlobalEcologyFlinders.com)
 [<img src="F_V_CMYK.png" alt="Flinders University" width="100" align="right" />](http://www.flinders.edu.au)
 This landing page is a synopsis of the main [Github](https://github.com/cjabradshaw/) repositories, their applications, examples, and links I've created. I've grouped them by theme, with a brief summary of topic under each entry. More detailed descriptions are available in the repositories themselves.
 
-<br>
 <br>
 
 ## Code by topic
