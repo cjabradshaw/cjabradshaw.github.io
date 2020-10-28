@@ -23,12 +23,12 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 ### _Environmental Quality_ <img src="environment.png" width="120" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 
-### _Health & Disease_ <img src="disease.png" height="100" align="right" />
+### _Health & Disease_ <img src="disease.png" height="80" align="right" />
 - [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
 - [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/diseasesynergy)
 
-### _Bibliometrics_  <img src="bibliometrics.png" height="100" align="right" />
+### _Bibliometrics_  <img src="bibliometrics.png" height="80" align="right" />
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw?tab=repositories)
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
