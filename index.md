@@ -2,7 +2,7 @@
 
 This landing page is a synopsis of the main Github repositories, their applications, examples, and links I've created.
 
-![GEL Logo Kaurna.png](/'GEL Logo Kaurna.png')
+[/GEL Logo Kaurna.png](/GEL Logo Kaurna.png)
 
 ## Animal Population Dynamics
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
