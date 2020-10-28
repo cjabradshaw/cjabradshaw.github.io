@@ -2,7 +2,7 @@
 
 This landing page is a synopsis of the main Github repositories, their applications, examples, and links I've created.
 
-<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" class="inline" width="300" />
+<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" width="150" />
 
 ## Animal Population Dynamics
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
@@ -20,9 +20,9 @@ This landing page is a synopsis of the main Github repositories, their applicati
 ## Health
 - socio-economic and environmental determinants of child-health outcomes among African nations
 
-# Bibliometrics
+## Bibliometrics
 - ranking researchers fairly by citation performance
 
-# Sharks
+## Sharks
 - deterrent trials for devices used to reduce the incidence of white shark (Carcharodon carcharias) attacks
 - predicting shark bites in Australia
