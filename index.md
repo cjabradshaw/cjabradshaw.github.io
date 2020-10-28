@@ -28,7 +28,7 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
 - [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/diseasesynergy)
 
-### _Bibliometrics_  <img src="bibliometrics.png" height="80" align="right" />
+### _Bibliometrics_  <img src="bibliometrics.png" height="120" align="right" />
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw?tab=repositories)
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
