@@ -29,7 +29,7 @@ This landing page is a synopsis of the main Github repositories, their applicati
 - socio-economic and environmental determinants of child-health outcomes among African nations
 
 ### _Bibliometrics_
-- [ranking researchers fairly by citation performance] (the '_ε_-index')(https://github.com/cjabradshaw?tab=repositories)
+- [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw?tab=repositories)
 
 ### _Sharks_
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
