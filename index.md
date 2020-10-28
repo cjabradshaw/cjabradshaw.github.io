@@ -4,7 +4,7 @@
 
 [<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" width="100" align="left" />](http://GlobalEcologyFlinders.com)
 [<img src="F_V_CMYK.png" alt="Flinders University" width="100" align="right" />](http://www.flinders.edu.au)
-This landing page is a synopsis of the main [Github](https://github.com/cjabradshaw/) repositories, their applications, examples, and links I've created. I've grouped them by theme, with a brief summary of topic in each entry. More detailed descriptions are available in the repositories themselves.
+This page is a synopsis of the main [Github](https://github.com/cjabradshaw/) repositories, their applications, examples, and links I've created. I've grouped them by theme, with a brief summary of topic in each entry. More detailed descriptions are available in the repositories themselves.
 
 Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.edu.au).
 
