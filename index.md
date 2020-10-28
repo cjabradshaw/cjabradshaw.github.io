@@ -8,6 +8,7 @@ This landing page is a synopsis of the main Github repositories, their applicati
 <br>
 <br>
 <br>
+<br>
 
 # Code by topic
 
@@ -31,5 +32,5 @@ This landing page is a synopsis of the main Github repositories, their applicati
 - ranking researchers fairly by citation performance
 
 ## Sharks
-- deterrent trials for devices used to reduce the incidence of white shark (Carcharodon carcharias) attacks
+- deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks
 - predicting shark bites in Australia
