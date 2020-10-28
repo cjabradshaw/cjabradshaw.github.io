@@ -1,8 +1,8 @@
 # Welcome to Professor [Corey Bradshaw's](http://GlobalEcologyFlinders.com/people/#CJAB) GitHub repositories
 
-[<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" width="150" align="left" />](http://GlobalEcologyFlinders.com)
-[<img src="F_V_CMYK.png" alt="Flinders University" width="150" align="right" />](http://www.flinders.edu.au)
-This landing page is a synopsis of the main Github repositories, their applications, examples, and links I've created. I've grouped them by theme, with a brief summary of topic under each entry. More detailed descriptions are available in the repositories themselves.
+[<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" width="100" align="left" />](http://GlobalEcologyFlinders.com)
+[<img src="F_V_CMYK.png" alt="Flinders University" width="100" align="right" />](http://www.flinders.edu.au)
+This landing page is a synopsis of the main [Github](https://github.com/cjabradshaw/) repositories, their applications, examples, and links I've created. I've grouped them by theme, with a brief summary of topic under each entry. More detailed descriptions are available in the repositories themselves.
 
 <br>
 <br>
@@ -37,5 +37,5 @@ This landing page is a synopsis of the main Github repositories, their applicati
 - [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
 
-[<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" align="center" />](http://EpicAustralia.org.au)
+[<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" height="300" align="center" />](http://EpicAustralia.org.au)
 
