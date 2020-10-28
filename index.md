@@ -10,7 +10,7 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 
 # Code by topic
 
-### _Animal Population Dynamics_ <img src="popdynam.jpg" width="100" align="right" />
+### _Animal Population Dynamics_ <img src="popdynam.jpg" width="200" align="right" />
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
