@@ -38,5 +38,5 @@ This landing page is a synopsis of the main Github repositories, their applicati
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
 
 
-<a href="http://EpicAustralia.org.au><img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" align="center" /></a>
+[<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" align="center" />](http://EpicAustralia.org.au)
 
