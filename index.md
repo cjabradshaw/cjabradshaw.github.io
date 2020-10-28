@@ -20,7 +20,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Invasive Species_ <img src="toad.png" height="70" align="right" />
 - [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
 
-### _Human Population Dynamcis & Movement_ <img src="people.png" width="80" align="right" />
+### _Human Population Dynamcis & Movement_ <img src="people transparent.png" width="80" align="right" />
 - [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
@@ -33,7 +33,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
 - [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/diseasesynergy)
 
-### _Bibliometrics_  <img src="bibliometrics.png" height="100" align="right" />
+### _Bibliometrics_  <img src="book black.png" height="100" align="right" />
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw?tab=repositories)
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
