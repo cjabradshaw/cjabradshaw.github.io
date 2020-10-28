@@ -10,7 +10,7 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 
 ## Code by topic
 
-### _Animal Population Dynamics_ <img src="popdynam.jpg" width="120" align="right" />
+### _Animal Population Dynamics_ <img src="popdynam.jpg" width="150" align="right" />
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
@@ -20,7 +20,7 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
 
-### _Environmental Quality_ <img src="environment.png" width="120" align="right" />
+### _Environmental Quality_ <img src="environment.png" height="80" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 
 ### _Health & Disease_ <img src="disease.png" height="80" align="right" />
