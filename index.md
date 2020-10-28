@@ -8,7 +8,7 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 <br>
 <br>
 
-# Code by topic
+## Code by topic
 
 ### _Animal Population Dynamics_ <img src="popdynam.jpg" width="200" align="right" />
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
