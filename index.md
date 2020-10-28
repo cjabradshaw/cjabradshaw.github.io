@@ -4,7 +4,9 @@
 
 This landing page is a synopsis of the main Github repositories, their applications, examples, and links I've created.
 
-
+<br>
+<br>
+<br>
 # Code by topic
 
 ## Animal Population Dynamics
