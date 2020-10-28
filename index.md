@@ -8,7 +8,6 @@ This landing page is a synopsis of the main Github repositories, their applicati
 <br>
 <br>
 <br>
-<br>
 
 # Code by topic
 
@@ -37,3 +36,7 @@ This landing page is a synopsis of the main Github repositories, their applicati
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
 - [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
+
+
+<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" width="150" align="center" />
+
