@@ -4,7 +4,9 @@
 
 [<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" width="100" align="left" />](http://GlobalEcologyFlinders.com)
 [<img src="F_V_CMYK.png" alt="Flinders University" width="100" align="right" />](http://www.flinders.edu.au)
-This landing page is a synopsis of the main [Github](https://github.com/cjabradshaw/) repositories, their applications, examples, and links I've created. I've grouped them by theme, with a brief summary of topic under each entry. More detailed descriptions are available in the repositories themselves.
+This landing page is a synopsis of the main [Github](https://github.com/cjabradshaw/) repositories, their applications, examples, and links I've created. I've grouped them by theme, with a brief summary of topic in each entry. More detailed descriptions are available in the repositories themselves.
+
+Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.edu.au).
 
 <br>
 
@@ -23,7 +25,7 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 ### _Environmental Quality_ <img src="environment.png" height="80" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 
-### _Health & Disease_ <img src="disease.png" height="80" align="right" />
+### _Health & Disease_ <img src="disease.png" height="70" align="right" />
 - [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
 - [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/diseasesynergy)
