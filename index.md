@@ -1,10 +1,13 @@
 ## Professor Corey Bradshaw's GitHub repositories
 
-This landing page is a synopsis of the main Github repositories, their applications, examples, and links.
+This landing page is a synopsis of the main Github repositories, their applications, examples, and links I've created.
 
-![GEL Logo](/'GEL Logo Kaurna.png')
-Format: ![Alt Text](url)
+![GEL Logo Kaurna.png](/'GEL Logo Kaurna.png')
 
+## Animal Population Dynamics
+- [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
+- [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
+- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
 
 ### Markdown
 
