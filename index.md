@@ -15,7 +15,7 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
 
-### _Human Population Dynamcis & Movement_ <img src="people.png" width="120" align="right" />
+### _Human Population Dynamcis & Movement_ <img src="people.png" width="100" align="right" />
 - [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
