@@ -1,8 +1,8 @@
-# Professor Corey Bradshaw's GitHub repositories
+# Welcome to Professor Corey Bradshaw's GitHub repositories
 
 This landing page is a synopsis of the main Github repositories, their applications, examples, and links I've created.
 
-<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" width="150" />
+<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" width="150" align="left" />
 
 ## Animal Population Dynamics
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
