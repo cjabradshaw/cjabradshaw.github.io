@@ -2,7 +2,7 @@
 
 This landing page is a synopsis of the main Github repositories, their applications, examples, and links.
 
-![GEL Logo](/images/logo.png)
+![GEL Logo](/'GEL logo Kaurna.png')
 Format: ![Alt Text](url)
 
 
