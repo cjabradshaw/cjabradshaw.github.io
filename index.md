@@ -1,42 +1,30 @@
-## Professor Corey Bradshaw's GitHub repositories
+# Professor Corey Bradshaw's GitHub repositories
 
 This landing page is a synopsis of the main Github repositories, their applications, examples, and links I've created.
 
 [/GEL Logo Kaurna.png](/GEL Logo Kaurna.png)
+
+<img src="GEL Logo Kaurna.png" alt="Global Ecology Laboratory" class="inline"/>
 
 ## Animal Population Dynamics
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
 
-### Markdown
+## Human Population Dynamcis & Movement
+- cellular-automaton model of human spread across Sahul
+- age-structured models of ancient humans entering Sahul
+- matrix projection models for the global human population
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Environmental quality
+- relationships between environmental degradation and socio-economic variables among African nations
 
-```markdown
-Syntax highlighted code block
+## Health
+- socio-economic and environmental determinants of child-health outcomes among African nations
 
-# Header 1
-## Header 2
-### Header 3
+# Bibliometrics
+- ranking researchers fairly by citation performance
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cjabradshaw/cjabradshaw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Sharks
+- deterrent trials for devices used to reduce the incidence of white shark (Carcharodon carcharias) attacks
+- predicting shark bites in Australia
