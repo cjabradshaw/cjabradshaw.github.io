@@ -1,8 +1,10 @@
-## Welcome to Corey Bradshaw's GitHub Pages
+## Professor Corey Bradshaw's GitHub repositories
 
-You can use the [editor on GitHub](https://github.com/cjabradshaw/cjabradshaw.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This landing page is a synopsis of the main Github repositories, their applications, examples, and links.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![GEL Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 
 ### Markdown
 
