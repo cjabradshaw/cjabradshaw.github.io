@@ -18,19 +18,22 @@ This landing page is a synopsis of the main Github repositories, their applicati
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
 
 ### _Human Population Dynamcis & Movement_
-- cellular-automaton model of human spread across Sahul
-- age-structured models of ancient humans entering Sahul
+- [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
+- [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - matrix projection models for the global human population
 
 ### _Environmental Quality_
-- relationships between environmental degradation and socio-economic variables among African nations
+- [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 
-### _Health_
-- socio-economic and environmental determinants of child-health outcomes among African nations
+### _Health & Disease_
+- [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
+- [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
 
 ### _Bibliometrics_
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw?tab=repositories)
+- [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks)
 
 ### _Sharks_
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
 - [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
+- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
