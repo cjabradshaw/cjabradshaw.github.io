@@ -15,24 +15,24 @@ This landing page is a synopsis of the main [Github](https://github.com/cjabrads
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
 
-### _Human Population Dynamcis & Movement_
+### _Human Population Dynamcis & Movement_ <img src="people.png" width="200" align="right" />
 - [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
 
-### _Environmental Quality_
+### _Environmental Quality_ <img src="environment.png" width="200" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 
-### _Health & Disease_
+### _Health & Disease_ <img src="disease.png" width="200" align="right" />
 - [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
 - [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/diseasesynergy)
 
-### _Bibliometrics_
+### _Bibliometrics_  <img src="bibliometrics.png" width="200" align="right" />
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw?tab=repositories)
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks)
 
-### _Sharks_
+### _Sharks_  <img src="shark.png" width="200" align="right" />
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
 - [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
