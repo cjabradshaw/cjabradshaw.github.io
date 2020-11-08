@@ -35,7 +35,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/diseasesynergy)
 
 ### _Bibliometrics_  <img src="book black.png" height="100" align="right" />
-- [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw?tab=repositories)
+- [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw/EpsilonIndex); you can also try the web version to calculate the index for your own sample of researchers by visiting [cjabradshaw.shinyapps.io/epsilonIndex](https://cjabradshaw.shinyapps.io/epsilonIndex/)
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
 
