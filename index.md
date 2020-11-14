@@ -45,7 +45,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
 
-### _Amusing_  <img src="fun.png" height="100" align="right" />
+### _Amusing_  <img src="amuse.png" height="100" align="right" />
 - [probability two people in a group of a specified size share the same birthday](https://github.com/cjabradshaw/SameBirthdayShiny) (R Shiny app)
 
 [<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" height="300" align="center" />](http://EpicAustralia.org.au)
