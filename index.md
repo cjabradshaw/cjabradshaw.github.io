@@ -21,6 +21,11 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Invasive Species_ <img src="toad.png" height="70" align="right" />
 - [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
 
+### _Sharks_  <img src="shark.png" width="120" align="right" />
+- [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
+- [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
+- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
+
 ### _Human Population Dynamcis & Movement_ <img src="people transparent.png" width="80" align="right" />
 - [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
@@ -36,14 +41,12 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 
 ### _Bibliometrics_  <img src="book black.png" height="100" align="right" />
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw/EpsilonIndex); you can also try the web version to calculate the index for your own sample of researchers by visiting [cjabradshaw.shinyapps.io/epsilonIndex](https://cjabradshaw.shinyapps.io/epsilonIndex/)
-- a R Shiny App for fetching and analysing [Almetric](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) data for a submitted set of article [digital object identifiers](https://www.doi.org/) (doi) — [cjabradshaw.shinapps.io/AltmetricShiny](https://cjabradshaw.shinyapps.io/AltmetricShiny/)
+- fetching and analysing [Almetric](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) data for a submitted set of article [digital object identifiers](https://www.doi.org/) (doi) — [cjabradshaw.shinapps.io/AltmetricShiny](https://cjabradshaw.shinyapps.io/AltmetricShiny/) (R Shiny App)
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
 
-### _Sharks_  <img src="shark.png" width="120" align="right" />
-- [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
-- [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
-- [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
+### _Amusing_  <img src="fun.png" height="100" align="right" />
+- [probability two people in a group of a specified size share the same birthday](https://github.com/cjabradshaw/SameBirthdayShiny) (R Shiny app)
 
 [<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" height="300" align="center" />](http://EpicAustralia.org.au)
 
