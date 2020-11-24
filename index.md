@@ -26,7 +26,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [predicting shark bites in Australia](https://github.com/cjabradshaw/sharkbite)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
 
-### _Human Population Dynamcis & Movement_ <img src="people transparent.png" width="80" align="right" />
+### _Human Population Dynamics & Movement_ <img src="people transparent.png" width="80" align="right" />
 - [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
