@@ -42,7 +42,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Bibliometrics_  <img src="book black.png" height="100" align="right" />
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw/EpsilonIndex); you can also try the web version to calculate the index for your own sample of researchers by visiting [cjabradshaw.shinyapps.io/epsilonIndex](https://cjabradshaw.shinyapps.io/epsilonIndex/)
 - fetching and analysing [Almetric](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) data for a submitted set of article [digital object identifiers](https://www.doi.org/) (doi) — [cjabradshaw.shinapps.io/AltmetricShiny](https://cjabradshaw.shinyapps.io/AltmetricShiny/) (R Shiny App)
-- [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks); you can also try the web version to calculate the index for your own sample of researchers by visiting [cjabradshaw.shinyapps.io/JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/)
+- [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks); you can also try the web version to calculate the index for your own sample of journals by visiting [cjabradshaw.shinyapps.io/JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
 
 ### _Amusing_  <img src="amuse.png" height="75" align="right" />
