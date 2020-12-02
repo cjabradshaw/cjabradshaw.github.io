@@ -14,6 +14,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ## Code by topic
 
 ### _Animal Population Dynamics_ <img src="life cycle.png" width="110" align="right" />
+- <em>[LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/)</em>: R Shiny app to project an age-classified population stochastically
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest mode](https://github.com/cjabradshaw/WhalerSharkModel)
