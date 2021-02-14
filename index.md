@@ -49,5 +49,9 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Amusing_  <img src="amuse.png" height="75" align="right" />
 - [probability two people in a group of a specified size share the same birthday](https://github.com/cjabradshaw/SameBirthdayShiny) (R Shiny app)
 
+### _Other_  <img src="amuse.png" height="75" align="right" />
+- [My papers sorted by Altmetric score (only the top-scoring papers included)](https://github.com/cjabradshaw/AltmetricBradshaw/altmetric.html) (R Shiny app)
+
+
 [<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" height="300" align="center" />](http://EpicAustralia.org.au)
 
