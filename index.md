@@ -35,7 +35,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Environmental Quality_ <img src="environment.png" height="70" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 
-### _Ecological Networks_ <img src="network.jpg" height="70" align="right" />
+### _Ecological Networks_ <img src="network.png" height="70" align="right" />
 - [global co-extinction projections under climate and land-use changes](https://github.com/cjabradshaw/global_coextinctions)
 - [palaeo-ecological networks for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
 - [planetary annihilation co-extinctions simulation](https://github.com/cjabradshaw/co-extinctions)
