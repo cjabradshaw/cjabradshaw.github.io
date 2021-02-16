@@ -58,5 +58,5 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
 
 
-[<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" height="300" align="center" />](http://EpicAustralia.org.au)
+[<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" height="300" align="center" />](http://EpicAustralia.org.au/)
 
