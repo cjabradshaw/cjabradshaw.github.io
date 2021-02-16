@@ -20,6 +20,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [spatio-temporal models of megafauna extirpation in Sahul](https://github.com/cjabradshaw/SEOZ_megafauna_extirpation)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
 - [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
+- [range changes in British birds](https://github.com/cjabradshaw/BritishBirdsRangeChange)
 
 ### _Invasive Species_ <img src="toad.png" height="70" align="right" />
 - [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
@@ -35,8 +36,9 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
 
-### _Environmental Quality_ <img src="environment.png" height="70" align="right" />
+### _Environmental Change_ <img src="environment.png" height="70" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
+- [relationship between flooding and deforestation](https://github.com/cjabradshaw/forestsfloods)
 
 ### _Ecological Networks_ <img src="ntwrk.png" height="70" align="right" />
 - [global co-extinction projections under climate and land-use changes](https://github.com/cjabradshaw/global_coextinctions)
