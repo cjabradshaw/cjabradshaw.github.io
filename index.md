@@ -35,6 +35,11 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Environmental Quality_ <img src="environment.png" height="70" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 
+### _Ecological Networks_ <img src="network.png" height="70" align="right" />
+- [global co-extinction projections under climate and land-use changes](https://github.com/cjabradshaw/global_coextinctions)
+- [palaeo-ecological networks for estimating trophic cascades of the Naracoorte community](https://github.com/cjabradshaw/Inferring-networks-and-modelling-trophic-cascades)
+- [planetary annihilation co-extinctions simulation](https://github.com/cjabradshaw/co-extinctions)
+
 ### _Health & Disease_ <img src="disease.png" height="65" align="right" />
 - [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
@@ -50,7 +55,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [probability two people in a group of a specified size share the same birthday](https://github.com/cjabradshaw/SameBirthdayShiny) (R Shiny app)
 
 ### _Other_  <img src="altmetric_logo.png" height="65" align="right" />
-- [My papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
+- [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
 
 
 [<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" height="300" align="center" />](http://EpicAustralia.org.au)
