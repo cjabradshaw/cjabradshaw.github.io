@@ -46,7 +46,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Health & Disease_ <img src="disease.png" height="65" align="right" />
 - [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
-- [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/diseasesynergy)
+- [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/rabbitdisease)
 
 ### _Bibliometrics_  <img src="book black.png" height="90" align="right" />
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw/EpsilonIndex); you can also try the web version to calculate the index for your own sample of researchers by visiting [cjabradshaw.shinyapps.io/epsilonIndex](https://cjabradshaw.shinyapps.io/epsilonIndex/)
