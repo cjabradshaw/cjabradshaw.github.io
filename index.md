@@ -46,7 +46,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks); you can also try the web version to calculate the bootstrapped rank for your own sample of journals by visiting [cjabradshaw.shinyapps.io/JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
 
-### _Amusing_  <img src="amuse.png" height="75" align="right" />
+### _Amusing_  <img src="smiley.png" height="75" align="right" />
 - [probability two people in a group of a specified size share the same birthday](https://github.com/cjabradshaw/SameBirthdayShiny) (R Shiny app)
 
 ### _Other_  <img src="altmetric_logo.png" height="75" align="right" />
