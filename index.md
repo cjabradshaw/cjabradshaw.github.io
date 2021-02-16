@@ -32,24 +32,24 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
 
-### _Environmental Quality_ <img src="environment.png" height="80" align="right" />
+### _Environmental Quality_ <img src="environment.png" height="70" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 
-### _Health & Disease_ <img src="disease.png" height="70" align="right" />
+### _Health & Disease_ <img src="disease.png" height="65" align="right" />
 - [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
 - [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/diseasesynergy)
 
-### _Bibliometrics_  <img src="book black.png" height="100" align="right" />
+### _Bibliometrics_  <img src="book black.png" height="90" align="right" />
 - [ranking researchers fairly by citation performance (the '_ε_-index')](https://github.com/cjabradshaw/EpsilonIndex); you can also try the web version to calculate the index for your own sample of researchers by visiting [cjabradshaw.shinyapps.io/epsilonIndex](https://cjabradshaw.shinyapps.io/epsilonIndex/)
 - fetching and analysing [Altmetric](https://www.altmetric.com/about-altmetrics/what-are-altmetrics/) data for a submitted set of article [digital object identifiers](https://www.doi.org/) (doi) — [cjabradshaw.shinapps.io/AltmetricShiny](https://cjabradshaw.shinyapps.io/AltmetricShiny/) (R Shiny App)
 - [ranking journals using multiple citation indices](https://github.com/cjabradshaw/JournalRanks); you can also try the web version to calculate the bootstrapped rank for your own sample of journals by visiting [cjabradshaw.shinyapps.io/JournalRankShiny](https://cjabradshaw.shinyapps.io/JournalRankShiny/)
 - [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
 
-### _Amusing_  <img src="smiley.png" height="75" align="right" />
+### _Amusing_  <img src="smiley.png" height="90" align="right" />
 - [probability two people in a group of a specified size share the same birthday](https://github.com/cjabradshaw/SameBirthdayShiny) (R Shiny app)
 
-### _Other_  <img src="altmetric_logo.png" height="75" align="right" />
+### _Other_  <img src="altmetric_logo.png" height="65" align="right" />
 - [My papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
 
 
