@@ -21,6 +21,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 
 ### _Invasive Species_ <img src="toad.png" height="70" align="right" />
 - [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
+- <em>InvaCost</em> R Package: [Global Costs of Biological Invasions](https://github.com/cjabradshaw/invacost)
 
 ### _Sharks_  <img src="shark.png" width="120" align="right" />
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
@@ -56,6 +57,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 
 ### _Other_  <img src="altmetric_logo.png" height="65" align="right" />
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
+- [gun deaths ~ gun ownership analysis](https://github.com/cjabradshaw/guns)
 
 
 [<img src="animatedCABAH logo.gif" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" height="300" align="center" />](http://EpicAustralia.org.au/)
