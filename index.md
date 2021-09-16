@@ -40,6 +40,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Environmental Change_ <img src="environment.png" height="70" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
 - [relationship between flooding and deforestation](https://github.com/cjabradshaw/forestsfloods)
+- [temporal shifts in intervals between extreme total annual rainfall](https://github.com/cjabradshaw/precipExtremes)
 
 ### _Ecological Networks_ <img src="ntwrk.png" height="70" align="right" />
 - [global co-extinction projections under climate and land-use changes](https://github.com/cjabradshaw/global_coextinctions)
