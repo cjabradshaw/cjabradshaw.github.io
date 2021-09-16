@@ -16,15 +16,20 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 ### _Animal Population Dynamics_ <img src="life cycle.png" width="110" align="right" />
 - <em>[LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/)</em>: R Shiny app to project an age-classified population stochastically
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
+- [effect of different culling regimes on feral pig populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
 - [spatio-temporal models of megafauna extirpation in Sahul](https://github.com/cjabradshaw/SEOZ_megafauna_extirpation)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
 - [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
 - [range changes in British birds](https://github.com/cjabradshaw/BritishBirdsRangeChange)
+- [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
+- [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
 
 ### _Invasive Species_ <img src="toad.png" height="70" align="right" />
 - [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
 - <code>InvaCost</code> R Package: [Global Costs of Biological Invasions](https://github.com/cjabradshaw/invacost)
+- [correlating life history with status (threatened/invasive) of legumes](https://github.com/cjabradshaw/legumeStatus)
+- [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
 
 ### _Sharks_  <img src="shark.png" width="120" align="right" />
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
@@ -51,6 +56,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [socio-economic and environmental determinants of child-health outcomes among African nations](https://github.com/cjabradshaw/AfricaChildHealth)
 - [estimating effects of temporal distancing to reduce infection risk](https://github.com/cjabradshaw/COVID19distancing)
 - [predicting the interaction between diseases for European rabbits to maximise biological control](https://github.com/cjabradshaw/rabbitdisease)
+- [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
 
 ### _Correlates of Extinction_ <img src="extinct.png" height="65" align="right" />
 - [correlating life history with status (threatened/invasive) of legumes](https://github.com/cjabradshaw/legumeStatus)
@@ -66,6 +72,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 
 ### _Other_  <img src="altmetric_logo.png" height="65" align="right" />
 - [my papers sorted by Altmetric score (only the top-scoring papers included)](https://cjabradshaw.github.io/AltmetricBradshaw/)
+- [100 papers every ecologist should read](https://github.com/cjabradshaw/HIPE)
 - [gun deaths ~ gun ownership analysis](https://github.com/cjabradshaw/guns)
 
 
