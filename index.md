@@ -24,7 +24,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 
 ### _Invasive Species_ <img src="toad.png" height="70" align="right" />
 - [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
-- <em>InvaCost</em> R Package: [Global Costs of Biological Invasions](https://github.com/cjabradshaw/invacost)
+- <code>InvaCost</code> R Package: [Global Costs of Biological Invasions](https://github.com/cjabradshaw/invacost)
 
 ### _Sharks_  <img src="shark.png" width="120" align="right" />
 - [deterrent trials for devices used to reduce the incidence of white shark (_Carcharodon carcharias_) attacks](https://github.com/cjabradshaw/whitesharkdeterrents)
@@ -35,6 +35,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [cellular-automaton model of human spread across Sahul](https://github.com/cjabradshaw/SahulHumanSpread)
 - [age-structured models of ancient humans entering Sahul](https://github.com/cjabradshaw/SahulHuman)
 - [matrix projection models for the global human population](https://github.com/cjabradshaw/globalhumanmodel)
+- [correlates of human fertility among low- and middle-income nations](https://github.com/cjabradshaw/humanfertility)
 
 ### _Environmental Change_ <img src="environment.png" height="70" align="right" />
 - [relationships between environmental degradation and socio-economic variables among African nations](https://github.com/cjabradshaw/EnvironRankAfrica)
