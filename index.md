@@ -24,6 +24,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [range changes in British birds](https://github.com/cjabradshaw/BritishBirdsRangeChange)
 - [population model for Tasmanian devils](https://github.com/cjabradshaw/devilpopmodel)
 - [offtake effects on banteng (_Bos javanicus_)](https://github.com/cjabradshaw/bantengharvest)
+- [density-independent processes decouple component and ensemble density feedbacks](https://github.com/cjabradshaw/DensityFeedbackSims)
 
 ### _Invasive Species_ <img src="toad.png" height="70" align="right" />
 - [estimating the cost of invasive species to Australia](https://github.com/cjabradshaw/InvasiveSppCostsAustralia)
