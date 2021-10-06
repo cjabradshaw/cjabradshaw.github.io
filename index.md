@@ -17,7 +17,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - <em>[LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/)</em>: R Shiny app to project an age-classified population stochastically
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 - [effect of different culling regimes on feral pig populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
-- [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
+- [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility) (see also individual models for some extant species for comparison):
         <ul>
         <li>[red kangaroo population model](https://github.com/cjabradshaw/KangarooPopModel)</li>
         <li>[short-beaked echidna population model](https://github.com/cjabradshaw/EchidnaPopModel)</li>
