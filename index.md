@@ -18,7 +18,9 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 - [effect of different culling regimes on feral pig populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
-        - [red kangaroo population model](https://github.com/cjabradshaw/KangarooPopModel)
+        <ul>
+        <li>[red kangaroo population model](https://github.com/cjabradshaw/KangarooPopModel)</li>
+        </ul>
         - [short-beaked echidna population model](https://github.com/cjabradshaw/EchidnaPopModel)
         - [emu population model](https://github.com/cjabradshaw/EmuPopModel)
         - [spotted-tail quoll population model](https://github.com/cjabradshaw/SpottedTailQuollModel)
