@@ -13,7 +13,7 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 
 ## Code by topic
 
-### _Animal Population Dynamics_ <img src="lifecycle.png" width="110" align="right" />
+### _Animal Population Dynamics_ <img src="lifecycle.png" width="200" align="right" />
 - <em>[LeslieMatrixShiny](https://cjabradshaw.shinyapps.io/LeslieMatrixShiny/)</em>: R Shiny app to project an age-classified population stochastically
 - [stochastic models for predicting feral cat eradication and costs on large islands](https://github.com/cjabradshaw/FeralCatEradication)
 - [effect of different culling regimes on feral pig populations on Kangaroo Island](https://github.com/cjabradshaw/KIpigCull)
