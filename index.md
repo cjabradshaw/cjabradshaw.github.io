@@ -20,10 +20,10 @@ Need help? Don't hesitate to contact me [here](mailto:corey.bradshaw@flinders.ed
 - [stochastic demographic models for Sahul megafauna species](https://github.com/cjabradshaw/MegafaunaSusceptibility)
         <ul>
         <li>[red kangaroo population model](https://github.com/cjabradshaw/KangarooPopModel)</li>
+        - <li>[short-beaked echidna population model](https://github.com/cjabradshaw/EchidnaPopModel)</li>
+        - <li>[emu population model](https://github.com/cjabradshaw/EmuPopModel)</li>
+        - <li>[spotted-tail quoll population model](https://github.com/cjabradshaw/SpottedTailQuollModel)</li>
         </ul>
-        - [short-beaked echidna population model](https://github.com/cjabradshaw/EchidnaPopModel)
-        - [emu population model](https://github.com/cjabradshaw/EmuPopModel)
-        - [spotted-tail quoll population model](https://github.com/cjabradshaw/SpottedTailQuollModel)
 - [spatio-temporal models of megafauna extirpation in Sahul](https://github.com/cjabradshaw/SEOZ_megafauna_extirpation)
 - [whaler shark (_Carcharhinus brachyurus_) sustainable harvest model](https://github.com/cjabradshaw/WhalerSharkModel)
 - [ecological-economic models of sustainable harvest for banteng <em>Bos javanicus</em> in northern Australia](https://github.com/cjabradshaw/bantengharvest)
