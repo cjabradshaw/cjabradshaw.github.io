@@ -1,6 +1,32 @@
 # Welcome to Professor [Corey Bradshaw's](http://GlobalEcologyFlinders.com/people/#CJAB) GitHub repositories
 <br>
-<a rel="me" href="https://mastodon.world/@conservbytes"></a>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting to github.com/cjabradshaw/</title>
+    <meta http-equiv="refresh" content="0; URL=https://github.com/simonw">
+    <link href="https://github.com/cjabradshaw" rel="me">
+    <link href="https://globalecologyflinders.com/" rel="me">
+    <link href="https://mastodon.world/@conservbytes" rel="me">
+  </head>
+  <body style="margin: 0; padding: 0">
+    <a
+      href="https://github.com/cjabradshaw"
+      style="
+        display: block;
+        height: 100vh;
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        color: white;
+      "
+    >
+      github.com/cjabradshaw
+    </a>
+  </body>
+</html>
 
 [<img src="F_V_CMYK.png" alt="Flinders University" width="100" align="right" />](http://www.flinders.edu.au)
 [<img src="GEL Logo Kaurna transparent.png" alt="Global Ecology Laboratory" width="100" align="right" />](http://GlobalEcologyFlinders.com)
