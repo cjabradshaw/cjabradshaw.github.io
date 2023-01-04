@@ -6,9 +6,8 @@
   <head>
     <meta charset="utf-8" />
     <title>Redirecting to github.com/cjabradshaw/</title>
-    <meta http-equiv="refresh" content="0; URL=https://github.com/simonw">
+    <meta http-equiv="refresh" content="0; URL=https://github.com/cjabradshaw">
     <link href="https://github.com/cjabradshaw" rel="me">
-    <link href="https://globalecologyflinders.com/" rel="me">
     <link href="https://mastodon.world/@conservbytes" rel="me">
   </head>
   <body style="margin: 0; padding: 0">
