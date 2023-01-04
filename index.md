@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    Redirecting to
+    Redirecting to github.com/cjabradshaw
     <meta http-equiv="refresh" content="0; URL=https://github.com/cjabradshaw">
     <link href="https://github.com/cjabradshaw" rel="me">
     <link href="https://globalecologyflinders.com" rel="me">
